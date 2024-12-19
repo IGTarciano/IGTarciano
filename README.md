@@ -2,14 +2,14 @@
 
 # Olá! Eu sou Igor Tarciano G. Silva 👋
 
-- 🔍 Estou em busca do meu desenvolvimento e gostaria de compartilhar minha evolução com vocês.
+- 🔍 Estou em transição de carreira, atualmente sou comprador em uma empresa e Autopeças.
 
-- 🌱 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, no primeiro período. Já adquiri conhecimentos em lógica de programação e estou adentrando no universo do front-end, aprendendo JavaScript e HTML.
+- 🌱 Estou cursando iniciando uma póes em Análise e Desenvolvimento de Sistemas e inicio também um curso com foco em ciencia de dados com o objetivo de futuramente me torna um analista de dados com foco em negocio e tomada de decisão, já adquiri conhecimentos em lógica de programação utilizando como ferramenta o python.
 
 - 💞️ Busco me desenvolver para entrar no mercado e agregar muito valor. Tenho o objetivo de me especializar no desenvolvimento de software.
 
 - 📫 Você pode entrar em contato comigo através dos seguintes canais:
-  - E-mail: igortg.dev@gmail.com
+  - E-mail: igortarciano40@gmail.com
   - Telefone: (81) 9.9605-0932
   - LinkedIn: [Igor Tarciano G. Silva](seu-linkedin-aqui)
 
