@@ -4,7 +4,7 @@
 
 - 🔍 Estou em transição de carreira, atualmente sou comprador em uma empresa e Autopeças.
 
-- 🌱 Estou cursando iniciando uma póes em Análise e Desenvolvimento de Sistemas e inicio também um curso com foco em ciencia de dados com o objetivo de futuramente me torna um analista de dados com foco em negocio e tomada de decisão, já adquiri conhecimentos em lógica de programação utilizando como ferramenta o python.
+- 🌱 Estou cursando iniciando uma pós em Análise e Desenvolvimento de Sistemas e inicio também um curso com foco em ciencia de dados com o objetivo de futuramente me torna um analista de dados com foco em negocio e tomada de decisão, já adquiri conhecimentos em lógica de programação utilizando como ferramenta o python.
 
 - 💞️ Busco me desenvolver para entrar no mercado e agregar muito valor. Tenho o objetivo de me especializar no desenvolvimento de software.
 
