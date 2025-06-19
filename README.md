@@ -1,22 +1,25 @@
 # Desenvolvedor em Formação: A Evolução de Igor Tarciano
 
-# Olá! Eu sou Igor Tarciano G. Silva 👋
+Olá! Eu sou Igor Tarciano G. Silva 👋
 
-- 🔍 Estou em transição de carreira, atualmente sou comprador em uma empresa e Autopeças.
+🔍 Estou em transição de carreira, atualmente sou comprador em uma empresa de autopeças.
 
-- 🌱 Estou cursando iniciando uma pós em Análise e Desenvolvimento de Sistemas e inicio também um curso com foco em ciencia de dados com o objetivo de futuramente me torna um analista de dados com foco em negocio e tomada de decisão, já adquiri conhecimentos em lógica de programação utilizando como ferramenta o python.
+🌱 Estou iniciando uma pós-graduação em Análise e Desenvolvimento de Sistemas e também um curso focado em ciência de dados. Meu objetivo é me tornar futuramente um analista de dados com foco em negócios e tomada de decisão. Já adquiri conhecimentos em lógica de programação utilizando Python.
 
-- 💞️ Busco me desenvolver para entrar no mercado e agregar muito valor. Tenho o objetivo de me especializar no desenvolvimento de software.
+💞️ Busco me desenvolver para entrar no mercado de tecnologia e agregar muito valor. Tenho como meta me especializar no desenvolvimento de software.
 
-- 📫 Você pode entrar em contato comigo através dos seguintes canais:
-  - E-mail: igortarciano40@gmail.com
-  - Telefone: (81) 9.9605-0932
-  - LinkedIn: [Igor Tarciano G. Silva](seu-linkedin-aqui)
+📫 Você pode entrar em contato comigo através dos seguintes canais:
 
-- 😄 Pronomes: Ele/Dele
+- **E-mail:** igortarciano40@gmail.com  
+- **Telefone:** (81) 9.9605-0932  
+- **LinkedIn:** [Igor Tarciano G. Silva](https://www.linkedin.com/in/igor-tarciano-g-silva)  
+- **Portfólio:** [https://igtarciano.github.io/IGTarciano.github.io-portfolio-igor/](https://igtarciano.github.io/IGTarciano.github.io-portfolio-igor/)  
+- **Pronomes:** Ele/Dele
 
-- ⚡ Iniciei minha formação em 2019 com o curso de Processos Gerenciais no Instituto Federal de Pernambuco. Este curso possui objetivos mais voltados para gestão e estratégia, com os quais me identifiquei muito e já me formei.
+⚡ Iniciei minha formação em 2019 com o curso de Processos Gerenciais no Instituto Federal de Pernambuco (IFPE). Este curso é voltado para gestão e estratégia, áreas com as quais me identifiquei muito e já concluí a graduação.
 
-- 🌐 Atualmente, atuo na área, trabalhando no setor de compras de uma empresa do ramo de comércio de veículos (Auto Parvi LTDA). Tenho o objetivo de realizar minha transição profissional.
+🌐 Atualmente, atuo no setor de compras de uma empresa do ramo de comércio de veículos (Auto Parvi LTDA) e busco realizar minha transição profissional para a área de tecnologia.
 
-- 🚀 Já possuo familiaridade com o mundo da programação e sempre gostei muito. Iniciei cursos de fundamentos de programação e noções básicas de Python, nos quais me apaixonei ainda mais pela área.
+🚀 Já possuo familiaridade com o mundo da programação e sempre gostei muito. Iniciei cursos de fundamentos de programação e noções básicas de Python, área pela qual me apaixonei ainda mais.
+
+---
