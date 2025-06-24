@@ -13,7 +13,8 @@ Olá! Eu sou Igor Tarciano G. Silva 👋
 - **E-mail:** igortarciano40@gmail.com  
 - **Telefone:** (81) 9.9605-0932  
 - **LinkedIn:** [Igor Tarciano G. Silva](https://www.linkedin.com/in/igor-tarciano-g-silva)  
-- **Portfólio:** [https://igtarciano.github.io/IGTarciano.github.io-portfolio-igor/](https://igtarciano.github.io/IGTarciano.github.io-portfolio-igor/)  
+- **Portfólio:** [https://igtarciano.github.io/IGTarciano.github.io-portfolio-igor/](https://igtarciano.github.io/IGTarciano.github.io-portfolio-igor/)
+- **Curriculo profissional:** https://igort.my.canva.site/
 - **Pronomes:** Ele/Dele
 
 ⚡ Iniciei minha formação em 2019 com o curso de Processos Gerenciais no Instituto Federal de Pernambuco (IFPE). Este curso é voltado para gestão e estratégia, áreas com as quais me identifiquei muito e já concluí a graduação.
