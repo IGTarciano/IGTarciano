@@ -4,9 +4,9 @@ Olá! Eu sou Igor Tarciano G. Silva 👋
 
 🔍 Estou em transição de carreira, atualmente sou comprador em uma empresa de autopeças.
 
-🌱 Estou iniciando uma pós-graduação em Análise e Desenvolvimento de Sistemas e também um curso focado em ciência de dados. Meu objetivo é me tornar futuramente um analista de dados com foco em negócios e tomada de decisão. Já adquiri conhecimentos em lógica de programação utilizando Python.
+🌱 Deu inicio ao completo de Ciencia de dados onde meu objetivo é me tornar um analista de dados com foco em negócios e tomada de decisão. Já adquiri conhecimentos em lógica de programação utilizando Python, manipulação de github, estatistica para ciencia de dados e atualmente estou no quarto modulo onde o foto é gerenciamento de banco de dados e consulta com o MySQL - Workbench, acompanha minha trajetoria e meu desenvolvimento: https://github.com/IGTarciano?tab=repositories.
 
-💞️ Busco me desenvolver para entrar no mercado de tecnologia e agregar muito valor. Tenho como meta me especializar no desenvolvimento de software.
+💞️ Buscando o autoconhecimento, ascenção profissional e qualidade de vida no trabalho. Trabalhar com o que me realiza me tornará um profissional mais feliz e satisfeito.
 
 📫 Você pode entrar em contato comigo através dos seguintes canais:
 
